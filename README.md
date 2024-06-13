@@ -1,4 +1,5 @@
-# social media icons
-## html, css and scss
-a simple front end layout to present social media icons. 
-when the mouse pointer is hovered over the icon, a small animation indicating the hovering is reflected
+# MEDIA-ICONS
+
+## Description
+This repository contains a simple frontend layout for presenting social media icons. The icons feature a small animation effect that activates when hovered over with the mouse pointer.
+
