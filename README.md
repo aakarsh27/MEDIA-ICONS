@@ -8,3 +8,6 @@ This repository contains a simple frontend layout for presenting social media ic
 - CSS
 - SCSS
 
+## Features
+- Clean and minimal design
+- Hover animation for social media icons
